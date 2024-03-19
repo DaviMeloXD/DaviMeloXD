@@ -15,6 +15,8 @@ Sou estudante de programação, com interesses pelo front-end e no periodo atual
 ##
 ### Carregando...
 
+![Snake animation](https://github.com/DaviMeloXD/DaviMeloXD/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
