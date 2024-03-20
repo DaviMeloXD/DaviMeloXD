@@ -3,6 +3,7 @@
 ##
 
 • 🎮 Gamer aposentado k
+
 • 🎓 Estudando programação com ênfase no front-end
 
 <div style="display: inline_block"><br>
