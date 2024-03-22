@@ -2,7 +2,7 @@
 
 ##
 
-• 🎮 Gamer aposentado  <br>
+• 🎮 Ex gamer  <br>
 • 🎓 Estudando programação com ênfase no front-end
 
 <div style="display: inline_block"><br>
